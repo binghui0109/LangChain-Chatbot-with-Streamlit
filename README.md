@@ -13,6 +13,8 @@ Modify `Your OpenAI API key` inside `constants.py` to use your own [OpenAI API k
 Place your own data into `data/data.txt`.
 
 ## Usage
+Modify the `system_template` inside `chatgpt.py` based on your own need.
+
 Run the script using command `streamlit run chatgpt.py`.
 
 Test reading

@@ -20,6 +20,7 @@ Run the script using command `streamlit run chatgpt.py`.
 Enter local server `Running on http://127.0.0.1:5000` to access.
 
 Enter your username before question for chat history tracking.
+
 Test reading
 ```
 > python chatgpt.py "Any easy recipes recommend?"
